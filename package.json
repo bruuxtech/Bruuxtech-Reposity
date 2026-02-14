@@ -1,0 +1,36 @@
+{
+  "name": "termichat-v2",
+  "version": "2.0.0",
+  "description": "Chat E2E criptata con sistema party e protezione anti-hack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "node client.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "chat",
+    "encryption",
+    "e2e",
+    "party",
+    "secure",
+    "terminal"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "express-rate-limit": "^7.1.5",
+    "helmet": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
