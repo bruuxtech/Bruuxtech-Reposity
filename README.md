@@ -39,7 +39,7 @@ Chat di gruppo completamente criptata end-to-end, accessibile solo da terminale 
 ### 1. Clona la Repository
 
 ```bash
-git clone https://github.com/tuo-username/termichat-v2.git
+git clone https://github.com/tuo-username/termichat-v2.git](https://github.com/bruuxtech/Bruuxtech-Reposity.git)
 cd termichat-v2
 ```
 
